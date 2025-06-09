@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20id='flag-icons-ae'%20viewBox='0%200%20640%20480'%3e%3cpath%20fill='%2300732f'%20d='M0%200h640v160H0z'/%3e%3cpath%20fill='%23fff'%20d='M0%20160h640v160H0z'/%3e%3cpath%20fill='%23000001'%20d='M0%20320h640v160H0z'/%3e%3cpath%20fill='red'%20d='M0%200h220v480H0z'/%3e%3c/svg%3e";export{e as default};
