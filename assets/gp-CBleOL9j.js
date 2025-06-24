@@ -1,1 +1,0 @@
-const e="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20id='flag-icons-gp'%20viewBox='0%200%20640%20480'%3e%3cpath%20fill='%23fff'%20d='M0%200h640v480H0z'/%3e%3cpath%20fill='%23000091'%20d='M0%200h213.3v480H0z'/%3e%3cpath%20fill='%23e1000f'%20d='M426.7%200H640v480H426.7z'/%3e%3c/svg%3e";export{e as default};
